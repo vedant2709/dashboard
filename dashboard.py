@@ -18,7 +18,7 @@ import plotly.express as px
 
 # initiate the app
 app=dash.Dash(external_stylesheets=[dbc.themes.UNITED,dbc.icons.BOOTSTRAP])
-
+server=app.server
 
 # In[3]:
 
