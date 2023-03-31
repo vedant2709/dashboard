@@ -4,5 +4,4 @@ gunicorn
 dash_core_components
 dash_bootstrap_components
 dash_html_components
-plotly.graph_objects
-plotly.express
+plotly
